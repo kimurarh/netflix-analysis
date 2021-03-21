@@ -64,7 +64,7 @@ Most of the titles available on Netflix are directed towards mature audiences (T
 ![Squareplot: Distribution per TV Rating](imgs/distribution-per-tv-rating.png)
 
 ### 6. Most popular Actors/Actresses
-The majority of actors/actresses that appear in the most number of movies/shows (popular actors) are from <strong>India</strong>
+The majority of actors/actresses that appear in the most number of Netflix productions (popular actors) are from <strong>India</strong>
 
 ![Barplot: Popular actors/actresses](imgs/popular-actors.png)
 
