@@ -18,7 +18,7 @@ We'll be using data visualizations to answer some questions:
 
 ## Data Cleaning
 Before working on the visualizations, we have to do some data cleaning
-- Deal with missing information;
+- Deal with missing information (NaN items in different columns);
 - Remove irrelevant data;
 - Process and add new data.
 
