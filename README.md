@@ -7,14 +7,14 @@ In this project, we'll be exploring a [dataset available on kaggle](https://www.
 
 ## Project
 We'll be using data visualizations to answer some questions:
-1. [How is the catalogue distribution in Movies and TV Shows?](#1-Distribution-of-Movies/TV-Shows-on-Netflix)
+1. [How is the catalogue distribution in Movies and TV Shows?](#1-Distribution-of-MoviesTV-Shows-on-Netflix)
 2. [How many Movies and TV Shows have been added to the Netflix catalogue each year?](#2-Movies-and-TV-Shows-additions-throughout-the-years)
 3. [Which countries have made the most Movies and TV Shows?](#3-Most-common-countries)
 4. [Is there a month/season of the year in which there are more additions to the catalogue?](#4-Season-of-the-year-in-which-there-are-more-additions-to-the-catalogue)
 5. [How is the catalogue distribution in terms of TV Rating?](#5-Distribution-per-TV-Rating)
-6. [What are the most popular Netflix actors/actresses?](#6-Most-popular-Actors/Actresses)
-7. [What are the most popular Movies/TV Shows genres?](#7-Most-popular-genre)
-8. [What are the most common words on titles of Movies and TV Shows?](#8-Most-common-words-on-Titles)
+6. [What are the most popular Netflix actors/actresses?](#6-Most-popular-ActorsActresses)
+8. [What are the most popular Movies/TV Shows genres?](#7-Most-popular-genre)
+9. [What are the most common words on titles of Movies and TV Shows?](#8-Most-common-words-on-Titles)
 
 ## Technologies
 - Python
