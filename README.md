@@ -32,3 +32,24 @@ The following technologies were used in this analysis:
   - Seaborn
   - Squarify
   - Wordcloud
+  
+## Development
+
+Create the <strong>conda environment</strong> from the environment.yml file available in this repository:
+```
+conda env create -f environment.yml
+```
+
+Activate the conda environment:
+```
+conda activate netflix-analysis
+```
+
+Launch <strong>jupyter notebook</strong>:
+```
+jupyter notebook
+```
+
+Click on the Netflix-Analysis.ipynb file:
+
+![ipynb file image](imgs/ipynb-file-image.png)
